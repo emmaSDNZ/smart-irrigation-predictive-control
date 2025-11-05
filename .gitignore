@@ -1,0 +1,11 @@
+# Directorios de entornos virtuales (Python)
+venv/
+.venv/
+
+# Archivos de caché/compilación
+__pycache__/
+*.pyc
+
+# Logs y otros archivos temporales
+*.log
+temp/
