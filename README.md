@@ -61,7 +61,7 @@ Esto lo posiciona dentro de **Agricultura 4.0**, **Smart Farming** e **IoT AI Sy
 | Clasificador ML     | `regar / no regar`                     |
 | Matriz de Confusión | Validación de performance              |
 
-> **Sistema híbrido:** Matemática + ML + Regla adaptativa ✅
+> **Sistema híbrido:** Matemática + ML + Regla adaptativa 
 
 ---
 
@@ -117,11 +117,11 @@ Proyecto supervisado en **Tecnicatura Sup. en Ciencia de Datos e IA — Cátedra
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 * Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 * ESP32, sensores DHT22 / humedad / NPK
-* MQTT / GPIO control
+* GPIO control
 * Jupyter Notebook
 * Git / CI Ready
 
@@ -148,9 +148,10 @@ Proyecto supervisado en **Tecnicatura Sup. en Ciencia de Datos e IA — Cátedra
 
 ---
 
-## Autor(es)
+## Autores:
 
 **Isaias Emanuel SudañeZ**
+
 
 
 > Desarrollo sistemas de IA aplicados a agricultura con IoT y Machine Learning
@@ -169,10 +170,5 @@ Próximos pasos:
 * Edge AI en ESP32 (TinyML)
 
 ---
-
-## Contacto
-
-LinkedIn | GitHub | Email
-*(completar al publicar)*
 
 
