@@ -144,7 +144,7 @@ Proyecto supervisado en **Tecnicatura Sup. en Ciencia de Datos e IA — Cátedra
 * Modelo predictivo estable para humedad futura
 * Sistema de riego automatizado con decisión inteligente
 * Ahorro de agua potencial vs riego tradicional
-* Base para implementación en cultivos reales en Jujuy
+* Base para implementación en cultivos reales
 
 ---
 
@@ -176,6 +176,7 @@ Próximos pasos:
 * Edge AI en ESP32 (TinyML)
 
 ---
+
 
 
 
