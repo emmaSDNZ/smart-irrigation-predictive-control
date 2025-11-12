@@ -152,7 +152,7 @@ Proyecto supervisado en **Tecnicatura Sup. en Ciencia de Datos e IA — Cátedra
 
 **Sofia Anahi Viotti**
 
-**Isaias Emanuel SudañeZ**
+**Isaias Emanuel Sudañez**
 
 **Katya Maria Nadales**
 
@@ -161,8 +161,7 @@ Proyecto supervisado en **Tecnicatura Sup. en Ciencia de Datos e IA — Cátedra
 
 > Desarrollo sistemas de IA aplicados a agricultura con IoT y Machine Learning
 
-Proyecto académico profesionalizado — supervisión docente 
-## Docente:
+Proyecto académico profesionalizado — supervisión docente :
 
 **Victor Palazzesi**
 ---
@@ -177,6 +176,7 @@ Próximos pasos:
 * Edge AI en ESP32 (TinyML)
 
 ---
+
 
 
 
